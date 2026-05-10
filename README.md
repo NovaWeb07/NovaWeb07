@@ -22,10 +22,10 @@ Building custom gameplay systems, mechanics, and optimization-focused mods for M
 ---
 
 ### Featured Work
-- Ben 10 Mod
+- Dynamic World Events
 - WeirdCraft
 - Cyber Tools
-- Immortal Mod
+- Poppy Playtime Systems
 
 ---
 
